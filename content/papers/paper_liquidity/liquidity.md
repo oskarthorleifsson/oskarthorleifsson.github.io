@@ -10,13 +10,7 @@ tags: ["Job Search","Liquidity","Unemployment","UI Benefits"]
 author: ["Anne Katrine Bjorgberg","Jonas Maibom", "Oskar Thorleifsson"]
 description: "Paper description for search (less than 155 characters)" 
 summary: "This paper provides direct evidence on how liquidity constraints affect job search behaviour. We combine data on job applications from Danish UI recipients with detailed individual balance sheet data, allowing us to construct measures of liquidity at the onset of unemployment and examine how it shapes the types of jobs targeted."
-#cover:
- #   image: "paper_figure.png"
-  #  alt: "Figure title (preferably 1280x720 pixels)"
-   # relative: true
-#editPost:
- #   URL: "https://doi.org/paper_doi"
-  #  Text: "Journal/Repository Name"
+
 
 ---
 

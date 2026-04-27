@@ -9,13 +9,7 @@ tags: ["Unemployment","Mismatch","Job Loss","Occupational Relocation","Job Searc
 author: ["Jonas Maibom", "Oskar Thorleifsson"]
 description: "Paper description for search engines (less than 155 characters)" 
 summary: "This paper studies the role of mismatch between unemployed job seekers and available vacancies in shaping unemployment and post-unemployment outcomes. Furthermore, we use data on job applications submitted by unemployed workers to investigate if mismatched workers search differently for jobs and how this matters for their post-unemployment outcomes."
-#cover:
- #   image: "mm_fig.png"
-  #  alt: "Mismatch with Vacancies"
-   # relative: true
-#editPost:
-#    URL: "https://doi.org/paper_doi"
-#    Text: "Work in Progress"
+
 
 ---
 

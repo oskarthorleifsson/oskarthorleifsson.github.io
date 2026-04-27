@@ -10,15 +10,10 @@ tags: ["Recruitment","Labour Shortage","Employer Search"]
 author: ["Oskar Thorleifsson"]
 description: "Paper description for search (less than 155 characters)" 
 summary: "I study how firms alter their recruitment behaviour when faced with changes in scarcity of labour. I exploit access to micro data from a recruitment survey in Denmark to examine the impacts on firms recruitment policies, such as using additional search channels and changing hiring standards."
-#cover:
- #   image: "paper_figure.png"
-  #  alt: "Figure title (preferably 1280x720 pixels)"
-   # relative: true
-#editPost:
- #   URL: "https://doi.org/paper_doi"
-  #  Text: "Journal/Repository Name"
 
 ---
+
+
 
 
 
