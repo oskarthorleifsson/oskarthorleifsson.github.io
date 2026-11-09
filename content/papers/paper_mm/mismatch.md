@@ -1,5 +1,5 @@
 ---
-title: "The Role of Occupational Mismatch in Unemployment and Post-Unemployment Outcomes" 
+title: "Market Conditions, Job Search, and Unemployment Outcomes" 
 #date: 2013-01-15
 status: "Work in progress"
 url: /papers/mismatch/
@@ -7,11 +7,13 @@ aliases:
     - /old_url.html
 tags: ["Unemployment","Mismatch","Job Loss","Occupational Relocation","Job Search"]
 author: ["Jonas Maibom", "Oskar Thorleifsson"]
-description: "Paper description for search engines (less than 155 characters)" 
-summary: "This paper studies the role of mismatch between unemployed job seekers and available vacancies in shaping unemployment and post-unemployment outcomes. Furthermore, we use data on job applications submitted by unemployed workers to investigate if mismatched workers search differently for jobs and how this matters for their post-unemployment outcomes."
+description: "How labor market tightness across occupational sub-markets shapes job search, job finding, and earnings losses of unemployed workers in Denmark." 
+summary: "We develop a measure of market conditions that accounts for the relatedness of workers’ skills to available vacancies. Leveraging administrative data on job applications in Denmark, we then examine how workers adjust search behavior in different market conditions and how that matters for job finding outcomes."
 
 
 ---
+
+*Previously circulated as "The Role of Occupational Mismatch in Unemployment and Post-Unemployment Outcomes"*
 
 ---
 
@@ -24,7 +26,7 @@ summary: "This paper studies the role of mismatch between unemployed job seekers
 
 ##### Abstract:
 
-This paper studies the role of mismatch between unemployed job seekers and vacancies in shaping unemployment and post-unemployment outcomes. We build measures of how well job-seekers align with available vacancies and apply them to a sample of Danish UI recipients. We quantify the importance of mismatch to vacancies on several margins, including job finding, earnings, and occupational relocation. Workers who are mismatched with vacancies find a job slower and have lower earnings post-employment, even three years after unemployment entry. Furthermore, we analyse data on job applications submitted by unemployed workers to analyse the type of jobs targeted. We find an initial difference in the characteristics of jobs mismatched workers apply for. However, the change in application behaviour over the course of the unemployment spell is similar for mismatched workers and better matched workers. Lastly, we attempt to answer whether mismatched workers search differently in a way that alleviates adverse outcomes.
+This paper studies how labor market conditions across occupational sub-markets at entry into unemployment influence subsequent unemployment outcomes and job search behavior. Using Danish register data we develop a measure of market conditions that combines vacancy-to-unemployment ratios across sub-markets using observed occupational transition patterns. We show that workers entering tighter markets find jobs faster and experience smaller earnings losses, with effects that persist for several years. Leveraging administrative data on job applications, we then examine how workers search across market conditions. We find that workers in tighter markets apply more in higher-paying and less-tight sub-markets, while exhibiting relatively small differences in the occupational scope of their search. A mediation analysis suggests that job search accounts for roughly one-third of the relationship between market conditions and wages. Overall, the results show that market conditions affect unemployment outcomes both directly and indirectly through workers' search decisions, providing new evidence on how individual search behavior connects labor-market conditions to unemployment and post-unemployment outcomes.
 
 ---
 
