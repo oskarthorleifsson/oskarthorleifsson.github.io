@@ -7,7 +7,7 @@ url: /papers/liquidity_constraints
 aliases: 
    # - /old_url.html
 tags: ["Job Search","Liquidity","Unemployment","UI Benefits"]
-author: ["Anne Katrine Bjorgberg","Jonas Maibom", "Oskar Thorleifsson"]
+author: ["Anne Katrine Borgbjerg","Jonas Maibom", "Oskar Thorleifsson"]
 description: "Paper description for search (less than 155 characters)" 
 summary: "We provide direct evidence on how financial resources available at unemployment entry affect job search behavior and subsequent labor market outcomes using Danish administrative data on individual balance sheets and job applications."
 
